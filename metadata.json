@@ -1,0 +1,11 @@
+{
+  "name": "Studibl",
+  "description": "AI-powered academic operating system for university students. Transforms content into personalized learning paths, tutoring, and analytics.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
